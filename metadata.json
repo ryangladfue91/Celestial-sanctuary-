@@ -1,0 +1,6 @@
+{
+  "name": "Celestial Sanctuary",
+  "description": "A mystical, nurturing space for Taurus and Cancer couples to synchronize dreams, track cosmic alignments, perform shared rituals, and log daily bonding notes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
